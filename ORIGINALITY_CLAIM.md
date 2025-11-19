@@ -50,6 +50,42 @@ While this is **not a legal patent**, it acts as public proof of originality for
 
 ---
 
+## 🔐 Usage & Replication Restrictions
+
+The conceptual framework, system architecture, naming, feature set, and overall design of **Keral.ai** were originally ideated and documented by **Johan S Varughese** on **19/11/2025**.
+
+This concept is intended specifically for the state of Kerala.
+
+### 🚫 Prohibited Use
+Replicating or deploying this concept — in part or in full — **for any other Indian state or any foreign nation without substantial modifications, adaptation, or without explicit written permission from the original author is strictly prohibited.**
+
+Such actions may constitute:
+
+- Misrepresentation of authorship  
+- Intellectual property misuse  
+- Idea plagiarism  
+- Unauthorised commercial exploitation  
+
+### ✔ Allowed Use (With Credit)
+This concept may be referenced, studied, or adapted **only when clear credit is given**:
+
+**“Based on the original Keral.ai concept by Johan S Varughese (2025)”**
+
+Permission must be obtained for:
+
+- Commercial use  
+- Government-level adoption  
+- State/national implementations  
+- Startup incubation  
+- Academic or institutional projects based on this idea  
+
+---
+
+## ⚠ Important Note
+While this document does not replace a formal patent, copyright, or legal filing, it serves as a **public timestamp of authorship**, establishing original ideation and intellectual ownership.
+
+Any misuse, replication, or unauthorised implementation outside the permitted scope may be subject to legal action under applicable intellectual property laws.
+
 Signed,  
 **Johan S Varughese**  
 19/11/2025  
